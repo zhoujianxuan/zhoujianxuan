@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhoujianxuan
-- 👀 I’m interested in playing MOBA games, exercising, learning trendy, and cool new technologies
+- 👀 I’m interested in playing games, exercising, learning trendy, and cool new technologies
 - 🌱 I am currently learning how to do better in back -end development
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me -> junakavaliro.zjx@gmail.com
