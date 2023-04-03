@@ -8,4 +8,3 @@ zhoujianxuan/zhoujianxuan is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![zhoujianxuan's github stats](https://github-readme-stats.vercel.app/api?username=zhoujianxuan&count_private=true&show_icons=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
